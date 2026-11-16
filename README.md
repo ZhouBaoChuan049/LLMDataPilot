@@ -15,13 +15,13 @@
   </h1>
 
   <p>
-    一个基于大语言模型的微服务智能数据处理平台，支持通过自然语言与 Excel 文件及数据库交互，实现数据查询、处理与智能分析。
+    一个基于LLM的微服务智能数据处理平台，通过自然语言与Excel文件及数据库交互。
     <br/>
-    An LLM-powered microservice platform for intelligent data processing and analytics, enabling natural language interaction with Excel files and databases.
+    An LLM-powered microservice platform for intelligent data processing, enabling natural language interaction with Excel and databases.
   </p>
 
   <p>
-    <i>Let AI Navigate Your Data.</i>
+    <i><b>Let AI Navigate Your Data.</b></i>
   </p>
 
   <p>
