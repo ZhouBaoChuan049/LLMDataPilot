@@ -3,6 +3,10 @@
     <picture>
       <source
         media="(prefers-color-scheme: dark)"
+        srcset="https://github.com/ZhouBaoChuan049/ImageOfBlog/blob/main/162c12d3-a8be-4301-8b6b-98c1db3adb01.png"
+      />
+      <source
+        media="(prefers-color-scheme: dark)"
         srcset="https://github.com/ZhouBaoChuan049/ImageOfBlog/blob/main/3ac33be3-1b42-4c95-ad4d-8dca902921a2.png"
       />
       <img
