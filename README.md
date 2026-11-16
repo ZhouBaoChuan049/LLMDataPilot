@@ -1,20 +1,15 @@
 <div align="center">
   <h1>
-    <picture>
-      <source
-        media="(prefers-color-scheme: dark)"
-        srcset="https://github.com/ZhouBaoChuan049/ImageOfBlog/blob/main/162c12d3-a8be-4301-8b6b-98c1db3adb01.png"
-      />
-      <source
-        media="(prefers-color-scheme: light)"
-        srcset="https://github.com/ZhouBaoChuan049/ImageOfBlog/blob/main/3ac33be3-1b42-4c95-ad4d-8dca902921a2.png"
-      />
-      <img
-        src="https://github.com/ZhouBaoChuan049/ImageOfBlog/blob/main/3ac33be3-1b42-4c95-ad4d-8dca902921a2.png"
-        width="300"
-        alt="LLMDataPilot Logo"
-      />
-    </picture>
+    <img
+      src="https://raw.githubusercontent.com/ZhouBaoChuan049/ImageOfBlog/main/162c12d3-a8be-4301-8b6b-98c1db3adb01.png#gh-dark-mode-only"
+      width="300"
+      alt="LLMDataPilot Logo"
+    />
+    <img
+      src="https://raw.githubusercontent.com/ZhouBaoChuan049/ImageOfBlog/main/3ac33be3-1b42-4c95-ad4d-8dca902921a2.png#gh-light-mode-only"
+      width="300"
+      alt="LLMDataPilot Logo"
+    />
     <br/>
     LLMDataPilot
   </h1>
